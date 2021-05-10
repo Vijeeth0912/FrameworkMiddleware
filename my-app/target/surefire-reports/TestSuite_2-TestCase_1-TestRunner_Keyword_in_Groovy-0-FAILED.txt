@@ -1,0 +1,10 @@
+Status: FAILED
+Time Taken: 132
+Size: 0
+Timestamp: Sun May 09 22:37:01 IST 2021
+TestStep: TestRunner Keyword in Groovy
+Error:groovy.lang.MissingPropertyException: No such property: API Basic Groovy Scripts for class: com.eviware.soapui.impl.wsdl.WsdlProject
+
+----------------- Messages ------------------------------
+groovy.lang.MissingPropertyException: No such property: API Basic Groovy Scripts for class: com.eviware.soapui.impl.wsdl.WsdlProject
+error at line: 26

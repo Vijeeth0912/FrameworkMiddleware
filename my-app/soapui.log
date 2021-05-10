@@ -1,0 +1,31 @@
+2021-05-10 12:28:41,104 WARN  [SoapUI] Missing folder [C:\Users\SreeVijeethJayanVala\Desktop\mvnframework\my-app\ext] for external libraries
+2021-05-10 12:28:41,321 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\SreeVijeethJayanVala\soapui-settings.xml]
+2021-05-10 12:28:52,293 INFO  [WsdlProject] Loaded project from [file:/C:/Users/SreeVijeethJayanVala/Desktop/mvnframework/my-app/Maven-Jenkins-Demo-soapui-project.xml]
+2021-05-10 12:28:52,530 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [Maven Jenkinssssss Demo]
+2021-05-10 12:28:52,532 INFO  [SoapUITestCaseRunner] Running Project [Maven Jenkinssssss Demo], runType = SEQUENTIAL
+2021-05-10 12:28:52,551 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TestCase 1]
+2021-05-10 12:28:52,582 INFO  [SoapUITestCaseRunner] running step [JDBC Connection]
+2021-05-10 12:28:52,867 INFO  [SoapUITestCaseRunner] Assertion [JDBC Status] has status VALID
+2021-05-10 12:28:52,868 INFO  [SoapUITestCaseRunner] running step [Login]
+2021-05-10 12:28:53,429 INFO  [SchemaUtils] Added default schema from file:/C:/Users/SreeVijeethJayanVala/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xop.xsd with targetNamespace http://www.w3.org/2004/08/xop/include
+2021-05-10 12:28:53,478 INFO  [SchemaUtils] Added default schema from file:/C:/Users/SreeVijeethJayanVala/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/XMLSchema.xsd with targetNamespace http://www.w3.org/2001/XMLSchema
+2021-05-10 12:28:53,487 INFO  [SchemaUtils] Added default schema from file:/C:/Users/SreeVijeethJayanVala/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xml.xsd with targetNamespace http://www.w3.org/XML/1998/namespace
+2021-05-10 12:28:53,497 INFO  [SchemaUtils] Added default schema from file:/C:/Users/SreeVijeethJayanVala/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/swaref.xsd with targetNamespace http://ws-i.org/profiles/basic/1.1/xsd
+2021-05-10 12:28:53,507 INFO  [SchemaUtils] Added default schema from file:/C:/Users/SreeVijeethJayanVala/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xmime200505.xsd with targetNamespace http://www.w3.org/2005/05/xmlmime
+2021-05-10 12:28:53,515 INFO  [SchemaUtils] Added default schema from file:/C:/Users/SreeVijeethJayanVala/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xmime200411.xsd with targetNamespace http://www.w3.org/2004/11/xmlmime
+2021-05-10 12:28:53,517 INFO  [SchemaUtils] Added default schema from file:/C:/Users/SreeVijeethJayanVala/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEnvelope.xsd with targetNamespace http://schemas.xmlsoap.org/soap/envelope/
+2021-05-10 12:28:53,521 INFO  [SchemaUtils] Added default schema from file:/C:/Users/SreeVijeethJayanVala/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding.xsd with targetNamespace http://schemas.xmlsoap.org/soap/encoding/
+2021-05-10 12:28:53,525 INFO  [SchemaUtils] Added default schema from file:/C:/Users/SreeVijeethJayanVala/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEnvelope12.xsd with targetNamespace http://www.w3.org/2003/05/soap-envelope
+2021-05-10 12:28:53,527 INFO  [SchemaUtils] Added default schema from file:/C:/Users/SreeVijeethJayanVala/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding12.xsd with targetNamespace http://www.w3.org/2003/05/soap-encoding
+2021-05-10 12:28:53,529 INFO  [SchemaUtils] Loading schema types from [file:/C:/Users/SreeVijeethJayanVala/Downloads/NewzipResources/Resources/ShoppingService.wsdl]
+2021-05-10 12:28:53,533 INFO  [SchemaUtils] Getting schema file:/C:/Users/SreeVijeethJayanVala/Downloads/NewzipResources/Resources/ShoppingService.wsdl
+2021-05-10 12:28:53,560 INFO  [SchemaUtils] Getting schema file:\C:\Users\SreeVijeethJayanVala\Downloads\NewzipResources\Resources\ShoppingService.xsd
+2021-05-10 12:28:53,749 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-10 12:28:53,749 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2021-05-10 12:28:53,750 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2021-05-10 12:28:53,752 INFO  [SoapUITestCaseRunner] running step [Logout]
+2021-05-10 12:28:53,813 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-10 12:28:53,814 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2021-05-10 12:28:53,821 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2021-05-10 12:28:53,823 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TestCase 1], time taken: 1211ms, status: FINISHED
+2021-05-10 12:28:53,831 INFO  [SoapUITestCaseRunner] Project [Maven Jenkinssssss Demo] finished with status [FINISHED] in 1291ms

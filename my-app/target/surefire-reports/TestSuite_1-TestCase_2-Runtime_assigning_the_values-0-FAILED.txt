@@ -1,0 +1,10 @@
+Status: FAILED
+Time Taken: 101
+Size: 0
+Timestamp: Sun May 09 22:37:00 IST 2021
+TestStep: Runtime assigning the values
+Error:java.lang.NullPointerException: Cannot invoke method toInteger() on null object
+
+----------------- Messages ------------------------------
+java.lang.NullPointerException: Cannot invoke method toInteger() on null object
+error at line: 6

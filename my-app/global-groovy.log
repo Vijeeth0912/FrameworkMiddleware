@@ -1,0 +1,103 @@
+2021-05-09 22:36:58,913 INFO  [log] This is used to print some thing in my console
+2021-05-09 22:36:58,915 INFO  [log] First Line
+2021-05-09 22:36:58,922 INFO  [log] First Line and Second Line and Third Line
+2021-05-09 22:36:58,922 INFO  [log] Different lines = First Line and Second Line and Third Line
+2021-05-09 22:36:58,924 INFO  [log] 10
+2021-05-09 22:36:58,925 INFO  [log] 10
+2021-05-09 22:37:00,577 INFO  [log] My name is vijeeth
+2021-05-09 22:37:01,245 INFO  [log] 40
+2021-05-09 22:37:01,636 INFO  [log] 40
+2021-05-09 22:37:01,713 INFO  [log] 60
+2021-05-09 22:37:01,722 INFO  [log] Test case Passed
+2021-05-09 22:37:01,768 INFO  [log] 3
+2021-05-09 22:37:01,769 INFO  [log] [10, 20, 30]
+2021-05-09 22:37:01,776 INFO  [log] 10
+2021-05-09 22:37:01,788 INFO  [log] 20
+2021-05-09 22:37:01,788 INFO  [log] 30
+2021-05-09 22:37:01,790 INFO  [log] after adding[10, 20, 30, 60]
+2021-05-09 22:37:01,793 INFO  [log] after adding[10, 15, 20, 30, 60]
+2021-05-09 22:37:01,794 INFO  [log] false
+2021-05-09 22:37:01,794 INFO  [log] true
+2021-05-09 22:37:01,795 INFO  [log] [10, 15, 30]
+2021-05-09 22:37:01,796 INFO  [log] [30, 15, 10]
+2021-05-09 22:37:01,808 INFO  [log] Thisis basics of Groovy script
+2021-05-09 22:37:01,810 INFO  [log] Addition result is : 60
+2021-05-09 22:37:01,813 INFO  [log] 12
+2021-05-09 22:37:01,814 INFO  [log] 15
+2021-05-09 22:37:01,839 INFO  [log] 
+ This is my First line to the file
+ This is my Second line to the file
+2021-05-09 22:37:01,845 INFO  [log] 
+ This is my First line to the file
+ This is my Second line to the file
+Vijeeth Jayan
+2021-05-09 22:37:02,015 INFO  [log] username
+2021-05-09 22:37:02,017 INFO  [log] Vijeeth001
+2021-05-09 22:37:02,018 INFO  [log] The number of rows are 5 and the number of columns are 2
+2021-05-09 22:37:02,019 INFO  [log] username
+2021-05-09 22:37:02,021 INFO  [log] password
+2021-05-09 22:37:02,021 INFO  [log] Vijeeth001
+2021-05-09 22:37:02,022 INFO  [log] Welcome1
+2021-05-09 22:37:02,022 INFO  [log] Vijeeth002
+2021-05-09 22:37:02,023 INFO  [log] Welcome2
+2021-05-09 22:37:02,023 INFO  [log] Vijeeth003
+2021-05-09 22:37:02,024 INFO  [log] Welcome3
+2021-05-09 22:37:02,024 INFO  [log] Vijeeth004
+2021-05-09 22:37:02,025 INFO  [log] Welcome4
+2021-05-10 11:52:08,669 INFO  [log] This will get executed before the test cases in the test suite
+2021-05-10 11:52:08,682 INFO  [log] This will get executed before the test steps in the test case
+2021-05-10 11:52:09,585 INFO  [log] <soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <soap:Body>
+      <soap:Fault>
+         <faultcode>soap:Client</faultcode>
+         <faultstring>System.Web.Services.Protocols.SoapException: Server was unable to read request. ---> System.InvalidOperationException: Request format is invalid: Missing required soap:Body element.
+   at System.Web.Services.Protocols.SoapServerProtocol.ReadParameters()
+   --- End of inner exception stack trace ---
+   at System.Web.Services.Protocols.SoapServerProtocol.ReadParameters()
+   at System.Web.Services.Protocols.WebServiceHandler.CoreProcessRequest()</faultstring>
+         <detail/>
+      </soap:Fault>
+   </soap:Body>
+</soap:Envelope>
+2021-05-10 11:52:09,608 INFO  [log] 
+2021-05-10 11:52:09,621 INFO  [log] TestCase 1
+2021-05-10 11:52:09,621 INFO  [log] CSV Report
+2021-05-10 11:52:09,761 INFO  [log] This will get executed after the test cases in the test suite
+2021-05-10 12:03:05,928 INFO  [log] This will get executed before the test cases in the test suite
+2021-05-10 12:03:05,948 INFO  [log] This will get executed before the test steps in the test case
+2021-05-10 12:03:06,719 INFO  [log] <soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <soap:Body>
+      <soap:Fault>
+         <faultcode>soap:Client</faultcode>
+         <faultstring>System.Web.Services.Protocols.SoapException: Server was unable to read request. ---> System.InvalidOperationException: Request format is invalid: Missing required soap:Body element.
+   at System.Web.Services.Protocols.SoapServerProtocol.ReadParameters()
+   --- End of inner exception stack trace ---
+   at System.Web.Services.Protocols.SoapServerProtocol.ReadParameters()
+   at System.Web.Services.Protocols.WebServiceHandler.CoreProcessRequest()</faultstring>
+         <detail/>
+      </soap:Fault>
+   </soap:Body>
+</soap:Envelope>
+2021-05-10 12:03:06,745 INFO  [log] 
+2021-05-10 12:03:06,773 INFO  [log] TestCase 1
+2021-05-10 12:03:06,773 INFO  [log] CSV Report
+2021-05-10 12:03:07,018 INFO  [log] This will get executed after the test cases in the test suite
+2021-05-10 12:05:09,171 INFO  [log] This will get executed before the test cases in the test suite
+2021-05-10 12:05:09,196 INFO  [log] This will get executed before the test steps in the test case
+2021-05-10 12:05:09,996 INFO  [log] <soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <soap:Body>
+      <soap:Fault>
+         <faultcode>soap:Client</faultcode>
+         <faultstring>System.Web.Services.Protocols.SoapException: Server was unable to read request. ---> System.InvalidOperationException: Request format is invalid: Missing required soap:Body element.
+   at System.Web.Services.Protocols.SoapServerProtocol.ReadParameters()
+   --- End of inner exception stack trace ---
+   at System.Web.Services.Protocols.SoapServerProtocol.ReadParameters()
+   at System.Web.Services.Protocols.WebServiceHandler.CoreProcessRequest()</faultstring>
+         <detail/>
+      </soap:Fault>
+   </soap:Body>
+</soap:Envelope>
+2021-05-10 12:05:10,009 INFO  [log] 
+2021-05-10 12:05:10,048 INFO  [log] TestCase 1
+2021-05-10 12:05:10,048 INFO  [log] CSV Report
+2021-05-10 12:05:10,308 INFO  [log] This will get executed after the test cases in the test suite
